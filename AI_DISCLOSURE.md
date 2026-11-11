@@ -1,24 +1,24 @@
-# AI and Tool Use Disclosure
-
 Declaration
-All analyses, code structures, reports, and evaluations presented within the scope of this work are the result of my own effort and active participation. The use of AI-powered tools (ChatGPT / OpenAI Codex) during the development process is clarified as follows:
+All analyses, code structures, reports, and evaluations presented within the scope of this work are the result of my own effort and active participation. The use of AI-powered tools (ChatGPT / OpenAI Codex) throughout the process is summarized as follows:
 
 Scope and Purpose of AI (Codex) Usage:
 
-Throughout the project, the assignment documentation was uploaded to the ChatGPT (OpenAI Codex) system; the tool served exclusively as an instructor and technical guide. Rather than providing direct answers to the assignment, Codex explained the methodology to be applied step-by-step, teaching the logical and technical procedures that needed to be followed.
+The ChatGPT (OpenAI Codex) system was utilized throughout the project, serving exclusively as an instructor and technical guide. Rather than providing direct answers, the tool explained the algorithms required for each step of the process, offering guidance on how to expand upon concepts and execute technical procedures.
 
-Guidance and Structural Development:
+Guidance and Structured Steps:
 
-Logical guidance was provided for the design of the notebook architecture, auxiliary functions, and reproducibility scripts.
+Designing the notebook structure, auxiliary components, and reproducible scripts;
 
-Assistance was given in structuring the reports, drafting the README content, and preparing presentation notes.
+Drafting the report, README content, and presentation notes;
 
-Support was provided regarding dataset alignment, data-splitting protocols, evaluation metrics, and the verification of output consistency.
+Executing code within Python environments with fixed dependencies;
+
+Providing guidance on dataset alignment, data-splitting protocols, evaluation metrics, and the verification of output distributions.
 
 Data and Documentation Sources:
 
-All numerical values ​​and figures reported in this work were derived from executions performed on original scikit-learn datasets, in accordance with the official scikit-learn documentation. The project utilized the following libraries and tools: Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter, and python-docx.
+All numerical values ​​and datasets used in this work are derived from original, official scikit-learn datasets. The project utilizes the following libraries and tools: Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter, and python-docx.
 
 Individual Contribution and Responsibility:
 
-Beyond the technical guidance provided by the AI ​​tool; The execution of live notebook cells, the final drafting of the code, the interpretation of results, in-class presentations, verbal explanations, and responses to questions were all carried out through my own personal participation and original delivery.
+Beyond the technical guidance provided by the AI ​​tool... The operation of the live laptop unit, the final writing of the code, the interpretation of the results, the in-class instruction, the verbal explanations, and all the responses provided were delivered through my own personal presentation and original exposition.
