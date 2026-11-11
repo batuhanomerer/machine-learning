@@ -14,7 +14,7 @@ py -3.12 -m venv .venv
 
 On macOS or Linux, use `python3.12 -m venv .venv` and `.venv/bin/python` for the last two commands.
 
-The script starts two fresh kernels. It runs both validation sections before either notebook reaches the final test evaluations, then refreshes both notebooks, the six combined CSVs and the PNGs. The Word report describes the submitted run. To work interactively, open either notebook in VS Code with the Python and Jupyter extensions, select the same virtual environment as the kernel and use **Run All**. Both notebooks can run independently from this folder.
+The script starts two fresh kernels. It runs both validation sections before either notebook reaches the final test evaluations, then refreshes both notebooks, the six combined CSVs and the PNGs. The Word report describes the submitted run. To work interactively, open either notebook in VS Code with the Python and Jupyter extensions, select the same virtual environment as the kernel and use **Run All**. To use Google Colab, upload either .ipynb file and choose Runtime > Run all. Each notebook includes its own setup and loads its dataset from scikit-learn.
 
 ## Files
 
