@@ -1,0 +1,3 @@
+dataset,configuration_id,algorithm,representation,parameter_value,seed,val_macro_f1_mean,val_macro_f1_std,test_accuracy,test_macro_precision,test_macro_recall,test_macro_f1,test_roc_auc,undefined_test_precision_labels,undefined_test_recall_labels
+breast_cancer,breast_cancer_knn_scaled_k7,KNN,scaled,7,42,0.9676749826749828,0.0297180245579809,0.9736842105263158,0.98,0.9642857142857144,0.9712773998488284,0.9887566137566136,[],[]
+wine,wine_knn_scaled_k11,KNN,scaled,11,42,0.9813519813519814,0.0322993157588601,1.0,1.0,1.0,1.0,1.0,[],[]
