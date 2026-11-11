@@ -37,4 +37,4 @@ The script starts two fresh kernels. It runs both validation sections before eit
 - [Breast Cancer Wisconsin loader and dataset source](https://scikit-learn.org/1.7/modules/generated/sklearn.datasets.load_breast_cancer.html)
 - [Wine Classification loader and dataset source](https://scikit-learn.org/1.7/modules/generated/sklearn.datasets.load_wine.html)
 - [GitHub repository](https://github.com/batuhanomerer/machine-learning)
-- Walkthrough video link or LMS filename: [VIDEO_LINK_OR_FILENAME]
+- [Walkthrough video](https://youtu.be/7TwU40EB4kI)
