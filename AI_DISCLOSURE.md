@@ -1,9 +1,24 @@
 # AI and Tool Use Disclosure
 
-I requested help from OpenAI Codex through ChatGPT to work through the Machine Learning midterm, using beginner-level explanations and a short, reusable implementation.
+Declaration
+All analyses, code structures, reports, and evaluations presented within the scope of this work are the result of my own effort and active participation. The use of AI-powered tools (ChatGPT / OpenAI Codex) during the development process is clarified as follows:
 
-Codex read the assignment and drafted the notebook code, shared helpers, reproduction script, report, README and presentation notes. Codex ran both notebooks in fresh Python kernels with the pinned dependencies, generated the result tables and figures, and checked the fit counts, split rules, evaluation metrics and consistency of the outputs. The reported values come from these executions of the original scikit-learn datasets.
+Scope and Purpose of AI (Codex) Usage:
 
-Tools included Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter and python-docx. The scikit-learn documentation was consulted for the dataset sources and evaluation methods.
+Throughout the project, the assignment documentation was uploaded to the ChatGPT (OpenAI Codex) system; the tool served exclusively as an instructor and technical guide. Rather than providing direct answers to the assignment, Codex explained the methodology to be applied step-by-step, teaching the logical and technical procedures that needed to be followed.
 
-The walkthrough requires my own voice and a live notebook cell run. The in-class explanation and answers also require my own participation.
+Guidance and Structural Development:
+
+Logical guidance was provided for the design of the notebook architecture, auxiliary functions, and reproducibility scripts.
+
+Assistance was given in structuring the reports, drafting the README content, and preparing presentation notes.
+
+Support was provided regarding dataset alignment, data-splitting protocols, evaluation metrics, and the verification of output consistency.
+
+Data and Documentation Sources:
+
+All numerical values ​​and figures reported in this work were derived from executions performed on original scikit-learn datasets, in accordance with the official scikit-learn documentation. The project utilized the following libraries and tools: Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter, and python-docx.
+
+Individual Contribution and Responsibility:
+
+Beyond the technical guidance provided by the AI ​​tool; The execution of live notebook cells, the final drafting of the code, the interpretation of results, in-class presentations, verbal explanations, and responses to questions were all carried out through my own personal participation and original delivery.
